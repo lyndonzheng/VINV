@@ -1,5 +1,5 @@
 # Visiting the Invisible
-[Paper]() |[ArXiv](https://arxiv.org/pdf/2104.05367.pdf) | [Project Page](https://www.chuanxiaz.com/publication/vinv/) | [Video](https://www.youtube.com/watch?v=QSAYxrKgn7A)
+[Paper]() |[ArXiv](https://arxiv.org/pdf/2104.05367.pdf) | [Project Page](https://chuanxiaz.com/vinv/) | [Video](https://www.youtube.com/watch?v=QSAYxrKgn7A)
 
 This repository implements the training and testing for "Visiting the Invisible: Layer-by-Layer Completed Scene Decomposition" by [Chuanxia Zheng](https://www.chuanxiaz.com), Duy-Son Dao (instance segmentation),[Guoxian Song](https://guoxiansong.github.io/homepage/index.html) (data rendering), [Tat-Jen Cham](https://personal.ntu.edu.sg/astjcham/) and [Jianfei Cai](https://jianfei-cai.github.io/). 
 
